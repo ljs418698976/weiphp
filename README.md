@@ -1,1 +1,1 @@
-# weiphp
+# weiphp3.0
